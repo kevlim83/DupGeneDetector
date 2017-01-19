@@ -6,3 +6,7 @@ bwa
 python
 ucsctools
 deeptools
+
+
+## Instructions
+Read the config.txt file, its self explainatory

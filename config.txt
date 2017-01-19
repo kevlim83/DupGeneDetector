@@ -1,0 +1,12 @@
+[bwa]
+index: /fs/durio/ref/v1.2/unzip_d1_pilon.fa
+read1: ./d1_illumina_1.fastq.gz
+read2: ./d1_illumina_2.fastq.gz
+
+[bamCoverage]
+genomesize: 825526369 
+binsize: 10
+
+[dup]
+single:
+test:
